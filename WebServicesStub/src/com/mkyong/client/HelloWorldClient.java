@@ -12,6 +12,8 @@ public class HelloWorldClient{
 	
 		System.out.println(hello.getHelloWorldAsString("Shubham Gowda"));
 		System.out.println("WOW");
+		System.out.println("Amaze");
+		//Shgubham Git trial
     }
 
 }
